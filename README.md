@@ -1,15 +1,15 @@
 # Converter
-```Python files to executable files conversion project, second version, by Mohamed Alaa Mohamed```
+**Python files to executable files conversion project, second version, by Mohamed Alaa Mohamed**
 
-1. **تثبيت مكتبة PyInstaller إذا لم تكن مثبتة. in cmd**
+1. ```تثبيت مكتبة PyInstaller إذا لم تكن مثبتة. in cmd```
 ```
 python -m pip install pyinstaller
 ```
-2. **To Review file :**
+2. ```To Review file :```
  ```bash
 cd folder name
    ```
-3. **To run file as py :**
+3. ```To run file as py : ```
 ```bash
 cd folder name && dir/s , python file name.py
    ```
