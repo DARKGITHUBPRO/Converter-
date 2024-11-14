@@ -9,6 +9,14 @@ cd folder name
 ```bash
 cd folder name && dir/s , python file name.py
    ```
+3. **"""تثبيت مكتبة PyInstaller إذا لم تكن مثبتة."""**
+```
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pyinstaller'])
+```
+```
+bash
+os.system("-m pip install pyinstaller")
+```
 
 ## Output
 ![Screenshot 2024-11-14 114820](https://github.com/user-attachments/assets/61a807c4-ee18-4144-bffb-f492e75e1794)
