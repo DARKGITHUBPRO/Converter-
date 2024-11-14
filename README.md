@@ -9,7 +9,7 @@ python -m pip install pyinstaller
  ```bash
 cd folder name
    ```
-3. ```To run file as py : ```
+3. __To run file as py ☑️__
 ```bash
 cd folder name && dir/s , python file name.py
    ```
