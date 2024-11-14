@@ -1,7 +1,8 @@
 # Converter
 ```text
-Python files to executable files conversion project, second version, 
-by Mohamed Alaa Mohamed
+Python files to executable 
+files conversion project,
+second version, by Mohamed Alaa Mohamed
  
 [use this on Windows system or Mac system only]
 ```
