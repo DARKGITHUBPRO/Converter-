@@ -1,6 +1,8 @@
 # Converter
 **Python files to executable files conversion project, second version, by Mohamed Alaa Mohamed**
 
+**__use this on Windows system or Mac system only__**
+
 1. **تثبيت مكتبة PyInstaller إذا لم تكن مثبتة. in cmd**
 ```
 python -m pip install pyinstaller
@@ -19,12 +21,8 @@ chmod +x * && ls
 cd folder name && dir/s , python file name.py
    ```
 
-5. __a New Version__in Termux - Kali Linux__:
-```bash
-apt upgrade && apt update 
-```
 
-## __Output__:
+## __Output__ :
 ![Screenshot 2024-11-14 114820](https://github.com/user-attachments/assets/61a807c4-ee18-4144-bffb-f492e75e1794)
 
 
