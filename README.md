@@ -11,9 +11,6 @@ cd folder name && dir/s , python file name.py
    ```
 3. **تثبيت مكتبة PyInstaller إذا لم تكن مثبتة. in cmd**
 ```
-subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pyinstaller'])
-```
-```
 python -m pip install pyinstaller
 ```
 
