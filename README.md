@@ -15,6 +15,7 @@ cd folder name
 ```bash
 cd folder name && dir/s , python file name.py
    ```
+4. __EXE File Not Found Now :__
 
 
 ## __Output__ :
