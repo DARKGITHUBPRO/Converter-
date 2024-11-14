@@ -14,7 +14,6 @@ cd folder name && dir/s , python file name.py
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pyinstaller'])
 ```
 ```
-bash
 os.system("-m pip install pyinstaller")
 ```
 
