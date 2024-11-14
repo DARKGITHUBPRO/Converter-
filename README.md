@@ -21,4 +21,10 @@ cd folder name && dir/s , python file name.py
 ## __Output__ :
 ![Screenshot 2024-11-14 114820](https://github.com/user-attachments/assets/61a807c4-ee18-4144-bffb-f492e75e1794)
 
+- For Save File 
+```python
+from os import *
+os.system("pip install pyinstaller")
+os.system("-m python pip install pyttsx3")
+```
 
