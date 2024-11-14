@@ -13,7 +13,7 @@ cd folder name
    ```
 3. __To run file as py ☑️__
 ```bash
-cd folder name && dir/s , python file name.py
+cd folder name && ls  -a , python file name.py
    ```
 4. __EXE File Not Found Now :__
 
