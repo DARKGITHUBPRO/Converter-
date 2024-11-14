@@ -9,7 +9,12 @@ python -m pip install pyinstaller
  ```bash
 cd folder name
    ```
-3. __To run file as py ☑️__
+3. __in Termux - Kali Linux__:
+```bash 
+chmod +x * && ls 
+``°
+
+4. __To run file as py ☑️__
 ```bash
 cd folder name && dir/s , python file name.py
    ```
