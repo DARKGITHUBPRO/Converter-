@@ -24,7 +24,7 @@ cd folder name && ls  -a , python file name.py echo "Wait"
 ## __Output__ :
 ![Screenshot 2024-11-14 114820](https://github.com/user-attachments/assets/61a807c4-ee18-4144-bffb-f492e75e1794)
 
-- For Save File 
+- To Verify Requirements  
 ```python
 from os import *
 os.system("pip install pyinstaller")
