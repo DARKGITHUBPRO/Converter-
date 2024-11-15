@@ -2,7 +2,7 @@
 ```text
 Python files to executable 
 files conversion project,
-second version, by Mohamed Alaa Mohamed
+second version, **by Mohamed Alaa Mohamed**
  
 [use this on Windows system or Mac system only]
 ```
@@ -16,7 +16,7 @@ cd folder name
    ```
 3. __To run file as py ☑️__
 ```bash
-cd folder name && ls  -a , python file name.py echo "Wait"
+cd folder name && ls-a , python file name.py echo "Wait"
    ```
 
 4. #### Features in Program : 
