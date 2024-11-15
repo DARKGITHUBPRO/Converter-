@@ -20,15 +20,21 @@ cd folder name && ls  -a , python file name.py echo "Wait"
    ```
 4. __EXE File Not Found Now :__
 
+- To Verify Requirements  
+```python
+#from os import *
+#import subprocess
+#os.system("-m python pip install pyinstaller")
+#os.system("-m python pip install pyttsx3")
+```
+5. ## Features in Program : 
+ - Select File - Files 
+ - Select Extract Folder 
+ - Select icon To Extract Project 
+ - Show All File Of Extract 
+ - Delete a All Old Files 
 
 ## __Output__ :
 ![Screenshot 2024-11-14 114820](https://github.com/user-attachments/assets/61a807c4-ee18-4144-bffb-f492e75e1794)
 
-- To Verify Requirements  
-```python
-from os import *
-import subprocess
-os.system("-m python pip install pyinstaller")
-os.system("-m python pip install pyttsx3")
-```
 
