@@ -18,16 +18,8 @@ cd folder name
 ```bash
 cd folder name && ls  -a , python file name.py echo "Wait"
    ```
-4. __EXE File Not Found Now :__
 
-- To Verify Requirements  
-```python
-#from os import *
-#import subprocess
-#os.system("-m python pip install pyinstaller")
-#os.system("-m python pip install pyttsx3")
-```
-5. ## Features in Program : 
+5. #### Features in Program : 
  - Select File - Files 
  - Select Extract Folder 
  - Select icon To Extract Project 
