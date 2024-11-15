@@ -2,7 +2,7 @@
 ***
 Python files to executable 
 files conversion project,
-second version,__by Mohamed Alaa Mohamed__
+second version,**__by Mohamed Alaa Mohamed__**
 [use this on Windows system or Mac system only]
 ***
 1. **تثبيت مكتبة PyInstaller إذا لم تكن مثبتة. in cmd**
