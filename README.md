@@ -17,7 +17,7 @@ cd folder name
 ```bash
 cd folder name && ls-a , python file name.py echo "Wait"
    ```
-** 4. Features in Program :**
+ **4. Features in Program :**
  - Change a Mode ( Dark - Light ) Mode
  - Select File - Files 
  - Select Extract Folder 
