@@ -27,7 +27,8 @@ cd folder name && ls  -a , python file name.py echo "Wait"
 - To Verify Requirements  
 ```python
 from os import *
-os.system("pip install pyinstaller")
+import subprocess
+os.system("-m python pip install pyinstaller")
 os.system("-m python pip install pyttsx3")
 ```
 
